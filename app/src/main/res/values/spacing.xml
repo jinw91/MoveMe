@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <!--Spacing for LoginActivity-->
+    <string name="login_picture_top_constraint">92dp</string>
+    <string name="login_schedule_move_layout_width">250dp</string>
+</resources>

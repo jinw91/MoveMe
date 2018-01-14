@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MoveMe</string>
+
+    <!-- String values for LoginActivity -->
+    <string name="button_movee_schedule">Schedule Move</string>
+    <string name="button_movee_login">Log In</string>
+    <string name="button_mover_login">Log In</string>
+    <string name="button_mover_register">Register</string>
+    <string name="text_mover">Mover?</string>
 </resources>
