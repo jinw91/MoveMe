@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MoveMe</string>
+    <string name="movee_scheduling_destinations_prompt">Location of Move</string>
+    <string name="button_movee_scheduling_next_step">Next Step -&gt;</string>
+    <string name="movee_scheduling_destinations_address_hint">Enter Address</string>
+    <string name="movee_scheduling_peopleCount_prompt">How Many People do You Need to Help You Move?</string>
+    <string name="button_movee_scheduling_previous_step">&lt;-Previous Step</string>
 </resources>
