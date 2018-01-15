@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:2:1-22:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Jin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4aaba55984dc235598e6cb3de588903c\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7d5901724a1977a4497d152a59a1a4e7\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Jin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1751a0eeb75d2434a6137459ba012fc2\AndroidManifest.xml:17:1-28:12
@@ -15,25 +15,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jin\.gradle
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Jin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5c0bd5a419ecad48c55f8b69aeb700d9\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Jin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\946d84e2ba3737ff24e1ada9686aecc7\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Jin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ba0667dc50f0dc727bbb01bca2b28989\AndroidManifest.xml:17:1-30:12
-INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml
-		ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:2:1-22:12
 		INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml
-		ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:2:1-22:12
 		INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:5:5-20:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Jin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4aaba55984dc235598e6cb3de588903c\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Jin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4aaba55984dc235598e6cb3de588903c\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7d5901724a1977a4497d152a59a1a4e7\AndroidManifest.xml:9:5-20
@@ -69,19 +69,23 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Jin\.gradle\caches\t
 	android:theme
 		ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:11:9-40
 activity#app.moveme.moveme.LoginActivity
-ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:12:9-13:20
 	android:name
 		ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:12:19-48
+activity#app.moveme.moveme.MoveeWorkflowActivity
+ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:14:9-19:20
+	android:name
+		ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:14:19-56
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:15:13-18:29
 action#android.intent.action.MAIN
-ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml:17:27-74
 uses-sdk
 INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Users\Jin\AndroidStudioProjects\MoveMe\MoveMe\app\src\main\AndroidManifest.xml
